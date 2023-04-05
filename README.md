@@ -15,8 +15,6 @@
 
 - 📫 How to reach me **beknurmaxalbayev@gmail.com**
 
-- ⚡ Fun fact **I am Funny and handsome**
-
 - ⚡ I like to **help** people
 
 ## <img src="https://media1.giphy.com/media/iY8CRBdQXODJSCERIr/200w.gif" width="30px"> Connect with me
