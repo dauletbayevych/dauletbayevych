@@ -67,5 +67,5 @@
  [![Beknurs's Github readme activity](https://github-readme-activity-graph.cyclic.app/graph?username=beknurmaxalbayev&bg_color=000000&color=71b7ff&line=09b43a&point=ffffff&area=true&hide_border=true)](https://github.com/beknurmaxalbayev/)
 
 ## <img src="https://media1.giphy.com/media/iY8CRBdQXODJSCERIr/200w.gif" width="30px"> Watch my contribution graph eaten by the snake🐍
-![Watch my contribution graph being eaten by a Snake!]
+![Watch my contribution graph being eaten by a Snake!](https://raw.githubusercontent.com/soburjon19/soburjon19/master/snake.svg)
 
