@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Beknur Maxalbayev</h1>
 <h3 align="center">Welcome to my GitHub page! I'm Frontend Developer</h3>
 <img src="https://readme-typing-svg.herokuapp.com?lines=Computer;Competitive+Programmer;Always%20learning%20new%20things&center=true&width=500&height=100">
-<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/ca6a6e482bb26bb20f4eddbfbfa3f9cff04a29ef05ac76962204222e989c34ee/68747470733a2f2f647862636f64652e636f6d2f6173736574732f696d616765732f33393939382d7765622d646576656c6f706d656e742e676966" width="350" height="350">
+<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/ca6a6e482bb26bb20f4eddbfbfa3f9cff04a29ef05ac76962204222e989c34ee/68747470733a2f2f647862636f64652e636f6d2f6173736574732f696d616765732f33393939382d7765622d646576656c6f706d656e742e676966" width="300" height="350">
 
 ## <img src="https://media1.giphy.com/media/iY8CRBdQXODJSCERIr/200w.gif" width="30px"> :sassy_man: About me
 - 🔭 I’m currently working on [VS code](https://code.visualstudio.com/download)
