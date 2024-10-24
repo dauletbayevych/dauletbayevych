@@ -1,24 +1,24 @@
 ![logo](https://www.horizont.com.hr/posao/frontend-developer.gif)
 <h1 align="center">Hi 👋, I'm Beknur Maxalbayev</h1>
-<h3 align="center">I'm Frontend Developer</h3>
+<h3 align="center">Welcome to my GitHub page! I'm Frontend Developer</h3>
 <img src="https://readme-typing-svg.herokuapp.com?lines=Computer;Competitive+Programmer;Always%20learning%20new%20things&center=true&width=500&height=100">
-<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/5352b6b2b973a416adb9f788796e6e861e6ff286d2d83780df8ef7d90d4ca349/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f53576f536b4e36447854737a71494b4571762f67697068792e676966">
+<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/ca6a6e482bb26bb20f4eddbfbfa3f9cff04a29ef05ac76962204222e989c34ee/68747470733a2f2f647862636f64652e636f6d2f6173736574732f696d616765732f33393939382d7765622d646576656c6f706d656e742e676966">
 
 ## <img src="https://media1.giphy.com/media/iY8CRBdQXODJSCERIr/200w.gif" width="30px"> :sassy_man: About me
 - 🔭 I’m currently working on [VS code](https://code.visualstudio.com/download)
 
 - 🌱 I’m currently learning **Cyber Security**
 
-- 👨‍💻 All of my projects are available at [Git Hub](https://github.com/beknurmaxalbayev?tab=repositories)
+- 👨‍💻 All of my projects are available at [Git Hub](https://github.com/dauletbayevych?tab=repositories)
 
-- 💬 Ask me about **VN, ReactJS, HTML5, CSS3, Javascript**
+- 💬 Ask me about **ReactJS, HTML5, CSS3, Javascript**
 
 - 📫 How to reach me **beknurmaxalbayev@gmail.com**
 
 - ⚡ I like to **help** people
 
 ## <img src="https://media1.giphy.com/media/iY8CRBdQXODJSCERIr/200w.gif" width="30px"> Connect with me
-<p align="left"><a href="https://t.me" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/512px-Telegram_logo.svg.png" alt="" height="30" width="" /></a><a href="https://twitter.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="" height="30" width="40" /></a>
+<p align="left"><a href="https://t.me" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/512px-Telegram_logo.svg.png" alt="" height="30" width="" /></a><a href="https://twitter.com/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/9/95/Twitter_new_X_logo.png" alt="" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="" height="30" width="40" /></a><a href="https://instagram.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="" height="30" width="40" /></a><a href="https://facebook.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="" height="30" width="40" /></a>
 </p>
 
